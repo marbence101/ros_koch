@@ -4,7 +4,7 @@
 1. git clone https://github.com/marbence101/ros_koch.git
 2. cd ros_koch
 
-1. ros2 run turtlesim turtlesim_node
+3. ros2 run turtlesim turtlesim_node
    
-2. source install/setup.bash
-2. ros2 launch ros2_course launch.py
+4. source install/setup.bash
+5. ros2 launch ros2_course launch.py
